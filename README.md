@@ -1,6 +1,6 @@
 # TicTacToeAdventure
 
-Welcome to **Tic Tac Toe Adventure**, where the classic game meets an exciting storyline!
+Welcome to **Tic Tac Toe Adventure**, where the classic game meets an exciting storyline!,
 This interactive web application allows you to challenge your friends or play against a computer opponent in a classic game of strategy.
 
 ## Key Features
